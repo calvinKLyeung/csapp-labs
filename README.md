@@ -20,6 +20,8 @@ To get started, follow these steps:
 
 ## Lab Assignments
 Track your progress through the labs by checking the boxes below:
+- [ ] [C Programming Lab](https://www.cs.cmu.edu/afs/cs/academic/class/15213-m22/www/labs.html)
+- [ ] [Cord Lab](https://www.cs.cmu.edu/afs/cs/academic/class/15213-m22/www/labs.html)
 - [ ] Data Lab
 - [ ] Bomb Lab
 - [ ] Attack Lab
